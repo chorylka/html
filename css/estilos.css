@@ -1,13 +1,13 @@
 body {
     background-image:
-      url('https://wallpapercave.com/wp/wp4748437.jpg');
+      url('https://wallpapercave.com/wp/wp4165452.jpg');
     background-size: 100vw 100vh;
     font-family: Trebuche;
     height: 100vh;
     
   }
   .menu{
-    background-color:whitesmoke;
+    background-color:White;
   }
   .menu ul {
     display: flex;
@@ -15,7 +15,7 @@ body {
   }
   a{
     text-decoration:none;
-    color: gray;
+    color: Dark Blue;
   }
   a:hover {
     text-decoration: underline;
@@ -25,10 +25,10 @@ body {
   }
   .site-title {
     text-align: center;
-    color: Gray;
+    color: White;
   }
   .site-subtitle {
-    text-align: left;
-    color: Gray;
-    font-style: italic;
+    text-align: center;
+    color: White;
+    font-style: none;
   }
