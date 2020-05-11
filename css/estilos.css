@@ -7,7 +7,7 @@ body {
     
   }
   .menu{
-    background-color:DarkCyan;
+    background-color:whitesmoke;
   }
   .menu ul {
     display: flex;
@@ -15,7 +15,7 @@ body {
   }
   a{
     text-decoration:none;
-    color: Aquamarine;
+    color: gray;
   }
   a:hover {
     text-decoration: underline;
@@ -25,10 +25,10 @@ body {
   }
   .site-title {
     text-align: center;
-    color: Aquamarine;
+    color: Gray;
   }
   .site-subtitle {
     text-align: left;
-    color: Aquamarine;
+    color: Gray;
     font-style: italic;
   }
