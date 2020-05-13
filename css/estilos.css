@@ -12,14 +12,6 @@
 }
 /* soft reset do css */
 
-
-
-
-
-
-
-
-
 body {
   background-image:
     url('https://wallpapercave.com/wp/wp4165452.jpg');
@@ -88,4 +80,8 @@ header {
 .img-portfolio {
   height: 180px;
   width: 180px;
+}
+.section {
+  color:whitesmoke;
+  text-align: left;
 }
